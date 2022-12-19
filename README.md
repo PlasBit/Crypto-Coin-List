@@ -2,7 +2,7 @@
 # Crypto-Coin-List-Widget #
 
 
-### The __[Crypto Coin List Widget](https://www.plasbit.com/widgets)__ — is a beautiful and easy-to-use real-time website tool that Lists cryptocurrencies FOR ANY WEBSITES. You can choose from 100 diffrent cryptocurrencies to list For FREE on your site. ###
+### The Crypto Coin List Widget — is a beautiful and easy-to-use real-time website tool that Lists cryptocurrencies FOR ANY WEBSITES. You can choose from 100 diffrent cryptocurrencies to list For FREE on your site. ###
 
 
 ## [DEMO](https://www.plasbit.com/widgets) ###
