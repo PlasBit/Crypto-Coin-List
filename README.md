@@ -1,36 +1,47 @@
+# Crypto Coin List Widget 💹
+The Crypto Coin List Widget provides an elegant display of real-time cryptocurrency listings, showcasing details and statistics of various digital assets on your website.
 
-# Crypto-Coin-List-Widget #
+- 📈 **Features**: Display top cryptocurrencies with their current price, market cap, and other significant statistics.
+- 💸 **Cost**: Absolutely FREE!
 
+## [Live Demo]()
+[Click here to see the DEMO](https://www.plasbit.com/widgets)
 
-### The Crypto Coin List Widget — is a beautiful and easy-to-use real-time website tool that Lists cryptocurrencies FOR ANY WEBSITES. You can choose from 100 diffrent cryptocurrencies to list For FREE on your site. ###
+## How to Use
 
+### 1. Customization:
 
-## [DEMO](https://www.plasbit.com/widgets) ###
-
-
-## How to customize: ##
-
+See how easy it is to customize the widget to match your website's theme.
 
 ![](https://github.com/PlasBit/Crypto-Coin-List/blob/main/Customise.gif)
 
-## How to copy the code into your wesite: ##
+### 2. Copy to your website:
 
+Copying the code to your website is straightforward!
 
 ![](https://github.com/PlasBit/Crypto-Coin-List/blob/main/Copy.gif)
 
-### How To Install ###
+### 3. Installation:
+1. Copy the example provided below.
+2. Tweak it according to your needs.
+3. Seamlessly integrate crypto conversion on your site!
 
-0. Copy [example](#example-) below and set your attributes customize.
-1. Enjoy.
-
----
-
-### Example ###
+### Code Snippet:
 
 ```html
-<!-- Crypto Coin List Widget --><div id="crypto_table" data-coins="BTC,ETH,USDT,USDC,BUSD" data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)" data-text="#ffffff" data-button="#0581de"></div><script src="https://img.plasbit.com/widget/js/index.js"></script><!-- /Crypto Coin List Widget -->
+<!-- Crypto Calculator Widget -->
+<div id="crypto_calculator" data-coins="BTC,ETH" data-cards="" data-rss=""
+    data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)"
+    data-text="#ffffff" data-button="#0581de" data-vertical="false" data-coin="BTC" data-price="USD"
+    data-crypto-amount="1" data-switch-mode="false" data-currency-amount="1" data-language="en">
+</div>
+<script src="https://img.plasbit.com/widget/js/crypto-calculator.js"></script>
 ```
 
 
 
-### Check our website for the complete customization of our widgets https://www.plasbit.com/widgets ###
+🎨 **Need More Customization?**
+
+Discover a wide range of customization options on our official site:
+
+🌐 [PlasBit Widgets](https://www.plasbit.com/widgets)
