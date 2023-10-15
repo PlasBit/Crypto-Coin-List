@@ -29,7 +29,7 @@ Copying the code to your website is straightforward!
 ### Code Snippet:
 
 ```html
-<!-- Crypto Calculator Widget -->
+<!-- Crypto Coin List Widget -->
 <div id="crypto_calculator" data-coins="BTC,ETH" data-cards="" data-rss=""
     data-theme="linear-gradient(90deg, rgba(115, 114, 114, 1) 0%, rgba(0, 0, 0, 1) 50%, rgba(115, 114, 114, 1) 100%)"
     data-text="#ffffff" data-button="#0581de" data-vertical="false" data-coin="BTC" data-price="USD"
