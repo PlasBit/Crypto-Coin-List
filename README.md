@@ -1,5 +1,5 @@
 # Crypto Coin List Widget 💹
-The Crypto Coin List Widget provides an elegant display of real-time cryptocurrency listings, showcasing details and statistics of various digital assets on your website.
+The **Crypto Coin List Widget** provides an elegant display of real-time cryptocurrency listings, showcasing details and statistics of various digital assets on your website.
 
 - 📈 **Features**: Display top cryptocurrencies with their current price, market cap, and other significant statistics.
 - 💸 **Cost**: Absolutely FREE!
